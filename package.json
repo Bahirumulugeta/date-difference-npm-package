@@ -1,0 +1,22 @@
+{
+  "name": "date-difference",
+  "version": "1.0.0",
+  "description": "calculating the date difference between the current date and the previous one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bahirumulugeta/date-difference-npm-package.git"
+  },
+  "keywords": [
+    "date-difference-npm"
+  ],
+  "author": "Bahiru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bahirumulugeta/date-difference-npm-package/issues"
+  },
+  "homepage": "https://github.com/Bahirumulugeta/date-difference-npm-package#readme"
+}
