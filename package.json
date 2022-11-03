@@ -1,7 +1,7 @@
 {
-  "name": "@bahiru/date-difference",
+  "name": "date-and-time-diff",
   "version": "1.0.0",
-  "description": "calculating the date difference between the current date and the previous one",
+  "description": "It calculates the date difference between the current date and the previous one.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,16 @@
     "url": "git+https://github.com/Bahirumulugeta/date-difference-npm-package.git"
   },
   "keywords": [
-    "date-difference-npm"
+    "date-difference-npm",
+    "date-difference",
+    "date difference npm",
+    "time-difference-npm",
+    "time-difference",
+    "time difference",
+    "date and time difference",
+    "date and time diff",
+    "date-and-time-difference",
+    "date-and-time-diff"
   ],
   "author": "Bahiru",
   "license": "ISC",
