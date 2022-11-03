@@ -1,5 +1,5 @@
 {
-  "name": "date-difference",
+  "name": "@bahiru/date-difference",
   "version": "1.0.0",
   "description": "calculating the date difference between the current date and the previous one",
   "main": "index.js",
