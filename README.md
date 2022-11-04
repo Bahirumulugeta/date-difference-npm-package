@@ -1,4 +1,4 @@
-﻿# date-and-time-difference-npm-package
+﻿# n-times-ago-npm-package
 
 # what is this?
 
@@ -6,12 +6,12 @@ It calculates the date difference between the current date and the previous one.
 
 # Installation
 
-`npm install --save date-and-time-diff`
+`npm install --save n-times-ago`
 
 Then...
 ...
 
-const timeDifference = require("date-and-time-diff");
+const timeDifference = require("n-times-ago");
 console.log(timeDifference(date));
 
 # Examples
