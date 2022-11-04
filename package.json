@@ -1,5 +1,5 @@
 {
-  "name": "date-and-time-diff",
+  "name": "n-times-ago",
   "version": "1.0.0",
   "description": "It calculates the date difference between the current date and the previous one.",
   "main": "index.js",
@@ -11,6 +11,8 @@
     "url": "git+https://github.com/Bahirumulugeta/date-difference-npm-package.git"
   },
   "keywords": [
+    "n-times-ago",
+    "n times ago",
     "date-difference-npm",
     "date-difference",
     "date difference npm",
